@@ -6,6 +6,19 @@ $topics = [
 What feaatures do you find helpful?
 Database Client?
 Other tools?',
+    'Hosting' => 'Discuss where you host your apps:
+AWS? What features?
+Rackspace?
+Under your desk?
+',
+    'PHP Versions' => 'What version do you use in Prod / Dev?
+Have you had any issues with upgrading?
+Is something holding you back?
+Do you use any of the new features?
+',
+    'Other Languages' => 'Do you use any other programming languages?
+Looking to learn any?
+Advantages / Disadvantages',
 ];
 ?><!DOCTYPE html>
 <html lang="en">
