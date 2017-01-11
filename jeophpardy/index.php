@@ -19,6 +19,14 @@ Do you use any of the new features?
     'Other Languages' => 'Do you use any other programming languages?
 Looking to learn any?
 Advantages / Disadvantages',
+    'Git' => 'Do you use command line or a GUI?
+Workflows?
+Github / Bitbucket / Gitlab / Other?
+Straight history or merges
+',
+    'Frameworks' => 'Symfony, Zend, Laravel, Other?
+Discuss
+',
 ];
 ?><!DOCTYPE html>
 <html lang="en">
